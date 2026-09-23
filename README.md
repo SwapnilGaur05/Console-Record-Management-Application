@@ -1,10 +1,10 @@
-# Console Student Record Management System    
+# 📚 Console Student Record Management System
 
 This system manages student records from the command line using JSON file storage, so the data remains available even after the program is closed.
 
 ---
 
-## Project Description
+## 📝 Project Description
 
 This application is a simple student record management system designed for a beginner-level Python project. It allows users to add, view, search, update, and delete student records through a menu-driven console interface.
 
@@ -19,7 +19,7 @@ The project demonstrates the use of several core Python concepts in one complete
 
 ---
 
-## Features
+## ✨ Features
 
 ### Student Management
 
@@ -59,7 +59,7 @@ The project demonstrates the use of several core Python concepts in one complete
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 
 ```text
 PYDA - 1/
@@ -75,7 +75,7 @@ PYDA - 1/
 
 ---
 
-## How to Run the Application
+## ▶️ How to Run the Application
 
 ### Prerequisites
 
@@ -95,7 +95,7 @@ python record_manager.py
 
 ---
 
-## Sample Input / Output
+## 📊 Sample Input / Output
 
 ### Main Menu
 
@@ -137,7 +137,7 @@ Roll No: 1000 | Name: Swapnil Gaur | Age: 21 | Course: DSA
 
 ---
 
-## Error Handling Examples
+## ⚠️ Error Handling Examples
 
 The application handles invalid input without crashing:
 
@@ -164,22 +164,21 @@ If the data file is missing or corrupted, the application catches the error and 
 
 ---
 
-## GitHub Repository
+## 🌐 GitHub Repository
 
-Repository URL: (https://github.com/SwapnilGaur05/Console-Student-Record-Management-Application)
-
----
-
-## Author / Submission Details
-
-| Field             | Detail                                                             |
-| ----------------- | ------------------------------------------------------------------ |
-| **Name**          | Swapnil Gaur                                                       |
-| **Roll no**       | 57                                                                 |
-| **Course**        | MCA - SEM 1                                                        |
-| **Subject**       | Python Programming & Relational Database                           |
-| **Assignment**    | Assignment 1 – Mini Project: Console Record-Management Application |
-| **Date**          | 23rd September 2026                                                |
+Repository URL: (https://github.com/SwapnilGaur05/Console-Record-Management-Application)
 
 ---
 
+## 👤 Author / Submission Details
+
+| Field          | Detail                                                             |
+| -------------- | ------------------------------------------------------------------ |
+| **Name**       | Swapnil Gaur                                                       |
+| **Roll no**    | 57                                                                 |
+| **Course**     | MCA - SEM 1                                                        |
+| **Subject**    | Python Programming & Relational Database                           |
+| **Assignment** | Assignment 1 – Mini Project: Console Record-Management Application |
+| **Date**       | 23rd September 2026                                                |
+
+---
