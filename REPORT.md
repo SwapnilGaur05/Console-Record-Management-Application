@@ -1,15 +1,15 @@
-# Assignment 1: Mini Project – Console Record-Management Application
+# 📘 Assignment 1: Mini Project – Console Student-Record-Management Application
 
-## Assignment Report
+## 📝 Assignment Report
 
 **Student Name:** Swapnil Gaur  
 **Date:** September 2026  
-**Subject:** Python for Data Analytics (PYDA)  
+**Subject:** Python Programming & Relational Database  
 **Project Title:** Student Record Management System
 
 ---
 
-## 1. Introduction
+## 1. 📌 Introduction
 
 This report documents the development of a console-based record-management application created as part of Assignment 1 for the PYDA course. The project is a simple yet effective student record system that allows users to add, view, search, update, and delete student records through a menu-driven interface.
 
@@ -17,7 +17,7 @@ The application demonstrates the practical use of Python fundamentals such as da
 
 ---
 
-## 2. Objective
+## 2. 🎯 Objective
 
 The main objective of the project was to build a functional console application that:
 
@@ -30,7 +30,7 @@ The main objective of the project was to build a functional console application 
 
 ---
 
-## 3. System Design
+## 3. 🧩 System Design
 
 ### 3.1 Architecture
 
@@ -83,7 +83,7 @@ User Input → Validation → List of Records → records.json
 
 ---
 
-## 4. Python Concepts Demonstrated
+## 4. 🐍 Python Concepts Demonstrated
 
 ### 4.1 Data Types and Variables
 
@@ -177,7 +177,7 @@ This design allows users to interact with the system easily and is a common patt
 
 ---
 
-## 5. Features Summary
+## 5. ✨ Features Summary
 
 1. Add Record: Allows a user to enter a student name, age, and course and assigns a unique roll number.
 2. View All Records: Displays all stored records in the console.
@@ -188,7 +188,7 @@ This design allows users to interact with the system easily and is a common patt
 
 ---
 
-## 6. Testing
+## 6. ✅ Testing
 
 The application was tested for the following scenarios:
 
@@ -209,7 +209,7 @@ The application was tested for the following scenarios:
 
 ---
 
-## 7. Limitations and Future Enhancements
+## 7. ⚠️ Limitations and Future Enhancements
 
 ### Current Limitations
 
@@ -229,7 +229,7 @@ The application was tested for the following scenarios:
 
 ---
 
-## 8. Conclusion
+## 8. 🧾 Conclusion
 
 This project successfully demonstrates how Python can be used to build a functional and practical console-based record management system. It covers core programming concepts such as variables, loops, conditions, functions, file handling, and user validation in a simple and organized way.
 
@@ -237,7 +237,7 @@ The application is user-friendly, modular, and easy to extend. It serves as a st
 
 ---
 
-## 9. References
+## 9. 📚 References
 
 - Python Official Documentation: https://docs.python.org/3/
 - Python `json` Module: https://docs.python.org/3/library/json.html
@@ -245,7 +245,7 @@ The application is user-friendly, modular, and easy to extend. It serves as a st
 
 ---
 
-## 10. Project Files
+## 10. 📁 Project Files
 
 - `record_manager.py` – Main application logic
 - `records.json` – Persistent data storage file
