@@ -164,6 +164,12 @@ If the data file is missing or corrupted, the application catches the error and 
 
 ---
 
+## GitHub Repository
+
+Repository URL: (https://github.com/SwapnilGaur05/Console-Record-Management-Application)
+
+---
+
 ## Author / Submission Details
 
 | Field             | Detail                                                             |
